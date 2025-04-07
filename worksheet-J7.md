@@ -8,7 +8,7 @@
 
 3. What is the purpose of the transport layer in the TCP/IP protocol? What do you, as a client, need to specify in this protocol?
 
-    **The purpose of the transport layer is to provide an abstraction for the process of sending and receiving data, to appear as if they are communicating directly with each other. It can also provide a mechanism, called ports, to differientiate communication destined for one process versus another.**
+    **The purpose of the transport layer is to provide an abstraction for the process of sending and receiving data, to appear as if they are communicating directly with each other. It can also provide a mechanism, called ports, to differientiate communication destined for one process versus another. So, these ports need to be specified.**
 
 4. What is the difference between SMTP and HTTP?
 
